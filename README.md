@@ -10,25 +10,20 @@ Hola 👋
 
 Soy Sergio, profesional en ingeniería sistemas, con habilidades avanzadas en data science, además de conocimientos y experiencia en machine learning y google cloud platform.
 
-- 📝 Tengo algunos blogs escritos sobre ciencia de datos y machine Learning en mi pagina web [https://sergiorubiano.com/](https://sergiorubiano.com/)
-- 🤖 Amante de la tecnología y de los datos.
+- 📝 Tengo algunos blogs escritos sobre ciencia de datos y machine Learning en mi pagina web [sergiorubiano.com/](https://sergiorubiano.com/)
 - 🚀 Me gusta aprender algo nuevo todos los días, me capacito constantemente en las plataformas [Platzi](https://platzi.com) y [Courcera](https://www.coursera.org/).
+- 🤖 Amante de la tecnología y de los datos.
+
 
 ### 🌟 **Blogs mas destacados**
 
 ---
 
-Detector de COVID-19 usando imágenes de Rayos X
+[Detector de COVID-19 usando imágenes de Rayos X](https://sergiorubiano.com/dectector-de-coronavirus-usando-imagenes-rayos-x)
 
-[](https://sergiorubiano.com/dectector-de-coronavirus-usando-imagenes-rayos-x)
+[Aplicando el algoritmo naive bayes a los dataset de COVID-19](https://sergiorubiano.com/algoritmo-naive-bayes-coronavirus)
 
-Aplicando el algoritmo naive bayes a los dataset de COVID-19
-
-[](https://sergiorubiano.com/algoritmo-naive-bayes-coronavirus)
-
-¿ Como les fue a los estudiantes en las pruebas saber pro ?
-
-[](https://sergiorubiano.com/analizando-prueba-saber-pro)
+[Analisi a las pruebas saber pro](https://sergiorubiano.com/analizando-prueba-saber-pro)
 
 ### Contacto
 
