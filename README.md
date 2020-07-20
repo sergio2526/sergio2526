@@ -1,4 +1,3 @@
-# Untitled
 
 ### Sergio Rubiano - @sergiorubiano25
 
@@ -15,6 +14,7 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades avanzadas en da
 - 🤖 Amante de la tecnología y de los datos.
 
 
+
 ### 🌟 **Blogs mas destacados**
 
 ---
@@ -23,7 +23,9 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades avanzadas en da
 
 [Aplicando el algoritmo naive bayes a los dataset de COVID-19](https://sergiorubiano.com/algoritmo-naive-bayes-coronavirus)
 
-[Analisi a las pruebas saber pro](https://sergiorubiano.com/analizando-prueba-saber-pro)
+[Dashboard de Reporte del COVID-19 en colombia](https://sergiorubiano.com/reporte-covid-19-colombia)
+
+[Analisis a las pruebas saber pro](https://sergiorubiano.com/analizando-prueba-saber-pro)
 
 ### Contacto
 
