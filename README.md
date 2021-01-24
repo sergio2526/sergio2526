@@ -7,7 +7,7 @@ Hola 👋
 
 ---
 
-Soy Sergio, profesional en ingeniería sistemas, con habilidades avanzadas en data science, además de conocimientos y experiencia en machine learning y google cloud platform.
+Soy Sergio, profesional en ingeniería sistemas, con habilidades en data science, además de conocimientos y experiencia en machine learning y google cloud platform.
 
 - 📝 Tengo algunos blogs escritos sobre ciencia de datos y machine Learning en mi pagina web [sergiorubiano.com/](https://sergiorubiano.com/)
 - 🚀 Me gusta aprender algo nuevo todos los días, me capacito constantemente en las plataformas [Platzi](https://platzi.com) y [Courcera](https://www.coursera.org/).
