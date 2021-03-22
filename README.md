@@ -19,13 +19,10 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades en data science
 
 ---
 
-[Detector de COVID-19 usando imágenes de Rayos X](https://sergiorubiano.com/dectector-de-coronavirus-usando-imagenes-rayos-x)
+[Desplegar modelo de Machine Learning con FastAPI](https://sergiorubiano.medium.com/desplegar-modelo-de-machine-learning-con-fastapi-905198dbd91)
 
-[Aplicando el algoritmo naive bayes a los dataset de COVID-19](https://sergiorubiano.com/algoritmo-naive-bayes-coronavirus)
+[Analice sus datos personales de Netflix con Python.](https://sergiorubiano.medium.com/analice-sus-datos-personales-de-netflix-con-python-bf73f671f1cd)
 
-[Dashboard de reporte del COVID-19 en colombia](https://sergiorubiano.com/reporte-covid-19-colombia)
-
-[Analisis a las pruebas saber pro](https://sergiorubiano.com/analizando-prueba-saber-pro)
 
 ### Contacto
 
