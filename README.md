@@ -19,7 +19,7 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades en data science
 
 ---
 
-[Desplegar modelo de Machine Learning con FastAPI](https://sergiorubiano.medium.com/desplegar-modelo-de-machine-learning-con-fastapi-905198dbd91)
+[Desplegar modelo de Machine Learning con FastAPI y Google Cloud Platform](https://sergiorubiano.medium.com/desplegar-modelo-de-machine-learning-con-fastapi-905198dbd91)
 
 [Analice sus datos personales de Netflix con Python.](https://sergiorubiano.medium.com/analice-sus-datos-personales-de-netflix-con-python-bf73f671f1cd)
 
