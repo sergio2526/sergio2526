@@ -19,6 +19,8 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 
 ---
 
+[Exponer Modelo de clasificación Mediante Tensorflow y FastAPI](https://sergiorubiano.medium.com/exponer-modelo-de-clasificaci%C3%B3n-mediante-tensorflow-y-fastapi-e9e27d5f1ad8)
+
 [Desplegar modelo de Machine Learning con FastAPI y Google Cloud Platform](https://sergiorubiano.medium.com/desplegar-modelo-de-machine-learning-con-fastapi-905198dbd91)
 
 [Analice sus datos personales de Netflix con Python.](https://sergiorubiano.medium.com/analice-sus-datos-personales-de-netflix-con-python-bf73f671f1cd)
