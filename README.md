@@ -5,8 +5,6 @@
 
 Hola 👋
 
----
-
 Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia en ciencia de datos, aprendizaje automatico y google cloud platform.
 
 - 📝 Tengo algunos blogs escritos sobre ciencia de datos y machine Learning en mi perfil de medium [sergiorubiano.medium.com](https://sergiorubiano.medium.com/)
@@ -29,7 +27,6 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 
 ### Languages and Tools:
 
----
 <img align="left" alt="Python" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/v1621910284/iconos/python_zaslsx.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Google Cloud" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621910613/iconos/google-cloud-1_qxhlkq.png" />
@@ -45,11 +42,11 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
+---
 
 ### Contact
 
----
 [Website](https://www.sergiorubiano.com/)
 
 [Linkedin](https://www.linkedin.com/in/sergio-rubiano-99b7a6186/)
