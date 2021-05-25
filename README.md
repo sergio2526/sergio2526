@@ -33,8 +33,8 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 <img align="left" alt="Python" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/v1621910284/iconos/python_zaslsx.png"/>
 <img align="left" alt="Google Cloud" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621910613/iconos/google-cloud-1_qxhlkq.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/v1621910286/iconos/MySQL_dg9mr8.png" />
-<img align="left" alt="Postgresql" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/v1621910286/iconos/postgresql_emfsph.png" />
+<img align="left" alt="MySQL" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621910286/iconos/MySQL_dg9mr8.png" />
+<img align="left" alt="Postgresql" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621910286/iconos/postgresql_emfsph.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
