@@ -32,11 +32,12 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 <img align="left" alt="MySQL" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621910286/iconos/MySQL_dg9mr8.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Linux" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621911184/iconos/tux-327x360_a73013.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,w_768/v1621911412/iconos/tensorflow_dvcegz.png" />
 <img align="left" alt="FastAPI" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_1000,w_1200/v1621911728/iconos/fastapi_b7u1es.png" />
 <img align="left" alt="Flask" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_600,w_768/v1621911728/iconos/Flask_iwj0dc.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Linux" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621911184/iconos/tux-327x360_a73013.png" />
+<img align="left" alt="Docker" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621913131/iconos/docker_rozqan.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
