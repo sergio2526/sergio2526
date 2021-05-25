@@ -36,7 +36,7 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 <img align="left" alt="MySQL" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621910286/iconos/MySQL_dg9mr8.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Linux" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621911088/iconos/slide_1_mhnyrn.jpg" />
+<img align="left" alt="Linux" width="26px" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_768,w_768/v1621911184/iconos/tux-327x360_a73013.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
