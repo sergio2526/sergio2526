@@ -15,7 +15,7 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 
 
 
-### 🌟 **Blogs mas destacados**
+### 📕 Latest Blog Posts
 
 ---
 
@@ -47,14 +47,13 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 <br />
 <br />
 
-### Contacto
+### Contact
 
 ---
-
-[Twitter](https://twitter.com/sergiorubiano25)
+[Website](https://www.sergiorubiano.com/)
 
 [Linkedin](https://www.linkedin.com/in/sergio-rubiano-99b7a6186/)
 
-[Web](https://www.sergiorubiano.com/)
+[Twitter](https://twitter.com/sergiorubiano25)
 
 [Email](mailto:sergioandresrubiano25@gmail.com)
