@@ -11,11 +11,9 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 - 🚀 Me gusta aprender algo nuevo todos los días, me capacito constantemente en las plataformas [Platzi](https://platzi.com) , [Courcera](https://www.coursera.org/) y [Pluralsight](https://app.pluralsight.com/).
 - 🙎‍♂️🙎‍♀️ Me encanta conocer personas y nuevos proyectos, así que estaría muy feliz de saber de ti.
 
-
+---
 
 ### 📕 Latest Blog Posts
-
----
 
 [Exponer Modelo de clasificación Mediante Tensorflow y FastAPI](https://sergiorubiano.medium.com/exponer-modelo-de-clasificaci%C3%B3n-mediante-tensorflow-y-fastapi-e9e27d5f1ad8)
 
