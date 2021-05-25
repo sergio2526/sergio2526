@@ -55,4 +55,6 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 
 [Linkedin](https://www.linkedin.com/in/sergio-rubiano-99b7a6186/)
 
+[Web](https://www.sergiorubiano.com/)
+
 [Email](mailto:sergioandresrubiano25@gmail.com)
