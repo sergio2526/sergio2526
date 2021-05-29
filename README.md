@@ -28,9 +28,8 @@ Soy Sergio, profesional en ingeniería en sistemas, con habilidades y experienci
 
 ### 🏆 Awards 2020:
 
-[<img src="https://res.cloudinary.com/xaiop/image/upload/v1622297404/iconos/Hackathon_BBVA_2020-1200x630_jca3qq.png" alt="codeSTACKr Spotify Playing" width="350" />](https://www.youtube.com/watch?v=djuizb_a_4g)
-
-[<img src="https://res.cloudinary.com/xaiop/image/upload/v1622297342/iconos/IBM_yppapu.png" alt="codeSTACKr Spotify Playing" width="350" />](https://maratona.dev/es/ranking)
+<img src="https://res.cloudinary.com/xaiop/image/upload/v1622297404/iconos/Hackathon_BBVA_2020-1200x630_jca3qq.png" alt="codeSTACKr Spotify Playing" width="350" />(https://www.youtube.com/watch?v=djuizb_a_4g)
+<img src="https://res.cloudinary.com/xaiop/image/upload/v1622297342/iconos/IBM_yppapu.png" alt="codeSTACKr Spotify Playing" width="350" />(https://maratona.dev/es/ranking)
 
 ---
 
