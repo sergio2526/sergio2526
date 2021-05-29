@@ -8,7 +8,7 @@
 
 Hola 👋
 
-Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia en ciencia de datos, aprendizaje automatico y google cloud platform.
+Soy Sergio, profesional en ingeniería en sistemas, con habilidades y experiencia en ciencia de datos, aprendizaje automatico y google cloud platform.
 
 - 📝 Tengo algunos blogs escritos sobre ciencia de datos y machine Learning en mi perfil de medium [sergiorubiano.medium.com](https://sergiorubiano.medium.com/)
 - 🚀 Me gusta aprender algo nuevo todos los días, me capacito constantemente en las plataformas [Platzi](https://platzi.com) , [Courcera](https://www.coursera.org/) y [Pluralsight](https://app.pluralsight.com/).
@@ -23,6 +23,12 @@ Soy Sergio, profesional en ingeniería sistemas, con habilidades y experiencia e
 - [Desplegar modelo de Machine Learning con FastAPI y Google Cloud Platform](https://sergiorubiano.medium.com/desplegar-modelo-de-machine-learning-con-fastapi-905198dbd91)
 
 - [Analice sus datos personales de Netflix con Python.](https://sergiorubiano.medium.com/analice-sus-datos-personales-de-netflix-con-python-bf73f671f1cd)
+
+---
+
+### 🏆 Premios:
+
+[<img src="https://sg.com.mx/sites/default/files/styles/max_w680/public/2020-10/Hackathon%20BBVA%202020-1200x630.png?itok=yWKF8IPA.png" alt="codeSTACKr Spotify Playing" width="350" />](https://www.youtube.com/watch?v=djuizb_a_4g)
 
 ---
 
