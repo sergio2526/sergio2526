@@ -27,10 +27,27 @@ Soy Sergio, profesional en ingeniería en sistemas, con habilidades y experienci
 ---
 
 ### 🏆 Awards 2020:
+Hackathon Belcorp 2.0
+Julio 2021
+
+descripción del reconocimiento- En Julio 2021, junto a mi equipo denominado Houdini Team, ganamos el segundo lugar en la hackathon organizada por Belcorp, donde resolvimos en un plazo de 24 horas una propuesta para el futuro de la belleza digital de la organización, esta solución la desarrollamos mediante ciencia de datos y desarrollo web, utilizando tecnologías como Python, Angular y Google Cloud Platform para el despliegue de la solución propuesta.
+
+[<img alt="Ganadores de la hackathon belcorp 2021" src="https://res.cloudinary.com/xaiop/image/upload/v1629565608/Belcorp_q3blja.png" alt="codeSTACKr Spotify Playing" width="150" />](https://www.hackathonbelcorp.com)
+
+Hackathon Banco BBVA
+Octubre 2020
+
+descripción del reconocimientoEn octubre 2020, junto a mi equipo ganamos la hackathon más grande de América latina, organizada por el banco BBVA, donde resolvimos en un plazo de 48 horas un reto sobre social listening, la solución que ofrecimos fue mediante ciencia de datos, algoritmos de inteligencia artificial y arquitectura de IBM Cloud.
 
 [<img alt="Ganadores de la hackathon 2020 bbva" src="https://res.cloudinary.com/xaiop/image/upload/v1622297404/iconos/Hackathon_BBVA_2020-1200x630_jca3qq.png" alt="codeSTACKr Spotify Playing" width="150" />](https://www.youtube.com/watch?v=djuizb_a_4g)
+
+Maratón Behind the Code
+Septiembre 2020 
+
+descripción del reconocimientoEn septiembre 2020, participe en la maratón más grande de América latina organizada por IBM, denominada "Maratón Behind the Code", en la cual logre quedar en el puesto número 60 (60/+800 personas) resolví problemas reales que fueron otorgados por empresas del sector tecnológico y banca, aplicando ciencia de datos, machine learning y IBM Cloud.
+
 [<img alt="100 finalistas de la maratona de IBM 2020" src="https://res.cloudinary.com/xaiop/image/upload/c_scale,h_357,w_680/v1622297342/iconos/IBM_yppapu.png" alt="codeSTACKr Spotify Playing" width="150" />](https://maratona.dev/es/ranking)
-[<img alt="Ganadores de la hackathon belcorp 2021" src="https://res.cloudinary.com/xaiop/image/upload/v1629565608/Belcorp_q3blja.png" alt="codeSTACKr Spotify Playing" width="150" />](https://www.hackathonbelcorp.com)
+
 
 ---
 
