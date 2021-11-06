@@ -11,7 +11,6 @@ Hola 👋
 Soy Sergio, profesional en ingeniería en sistemas, con habilidades y experiencia en ciencia de datos, aprendizaje automatico y google cloud platform.
 
 - 📝 Tengo algunos blogs escritos sobre ciencia de datos y machine Learning en mi perfil de medium [sergiorubiano.medium.com](https://sergiorubiano.medium.com/)
-- 🚀 Me gusta aprender algo nuevo todos los días, me capacito constantemente en las plataformas [Platzi](https://platzi.com) , [Courcera](https://www.coursera.org/) y [Pluralsight](https://app.pluralsight.com/).
 - 🙎‍♂️🙎‍♀️ Me encanta conocer personas y nuevos proyectos, estaría muy feliz de saber de ti.
 
 ---
