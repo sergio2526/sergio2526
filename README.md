@@ -1,8 +1,9 @@
 
 ### Sergio Rubiano
 
-[![Website](https://img.shields.io/website?label=www.sergiorubiano.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.qwiklabs.com/public_profiles/1c366b59-8c4b-4625-b8df-74e940215846)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sergiorubiano25?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=sergiorubiano25)
+
+[![Website](https://img.shields.io/website?label=Profile Google Cloud&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.qwiklabs.com/public_profiles/1c366b59-8c4b-4625-b8df-74e940215846)
 
 ---
 
