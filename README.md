@@ -74,7 +74,7 @@ Participé en la maratón más grande de América latina organizada por IBM, den
 
 ### Contact
 
-[Website](https://www.sergiorubiano.com/)
+[Website](https://sergiorubiano.tech/)
 
 [Linkedin](https://www.linkedin.com/in/sergio-rubiano-99b7a6186/)
 
